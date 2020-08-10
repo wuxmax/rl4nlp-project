@@ -13,4 +13,7 @@ RUN conda update -n base -c defaults conda && \
     conda install pytorch torchvision cudatoolkit=9.2 -c pytorch
 
 COPY qait_public /app
+COPY scripts /app/scripts
 WORKDIR /app
+
+ENTRYPOINT sh
