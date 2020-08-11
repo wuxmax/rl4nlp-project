@@ -1,0 +1,7 @@
+numpy==1.16.4
+gym==0.15.4
+spacy
+tqdm
+h5py
+visdom
+pyyaml

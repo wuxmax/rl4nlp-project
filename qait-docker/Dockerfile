@@ -1,19 +1,21 @@
 FROM tiangolo/python-machine-learning:cuda9.1-python3.6
 
+WORKDIR /app
+COPY requirements.txt .
+
 RUN pip install --upgrade pip && \
-    pip install numpy==1.16.4 && \
+    pip install -r requirements.txt && \
     pip install https://github.com/Microsoft/TextWorld/archive/rebased-interactive-qa.zip 
 
-RUN pip install -U spacy && \
-    python -m spacy download en
-
-RUN pip install tqdm h5py visdom pyyaml
+RUN python -m spacy download en
 
 RUN conda update -n base -c defaults conda && \
     conda install pytorch torchvision cudatoolkit=9.2 -c pytorch
 
-COPY qait_public /app
-COPY scripts /app/scripts
-WORKDIR /app
+RUN apt-get update && \
+    apt-get install -y tmux
 
-ENTRYPOINT sh
+COPY qait_public .
+COPY scripts ./scripts
+
+ENTRYPOINT [ "/bin/sh" ]
