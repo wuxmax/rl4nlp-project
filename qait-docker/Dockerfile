@@ -17,5 +17,6 @@ RUN apt-get update && \
 
 COPY qait_public .
 COPY scripts ./scripts
+COPY configs ./configs
 
 ENTRYPOINT [ "/bin/sh" ]

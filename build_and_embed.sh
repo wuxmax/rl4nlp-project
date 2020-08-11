@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-export DOCKER_BUILDKIT=1
-docker build -t qait-img qait-docker
+build.sh
 
 CONTAINER_NAME=$USER-$(uuidgen)
 docker run -dt --rm --name $CONTAINER_NAME --gpus all -v $(pwd)/fasttext/:/fasttext qait-img scripts/embedding.sh
