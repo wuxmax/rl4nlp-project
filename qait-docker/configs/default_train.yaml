@@ -30,7 +30,7 @@ checkpoint:
   save_frequency: 1000  # episode
   experiment_tag: 'test'
   load_pretrained: False  # during test, enable this so that the agent load your pretrained model
-  load_from_tag: 'your_previous_experiemnt_model'  # if you want to load from prev experiment
+  load_from_tag: ''  # if you want to load from prev experiment
 
 replay:
   discount_gamma: 0.9
