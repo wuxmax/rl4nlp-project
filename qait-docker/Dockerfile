@@ -15,8 +15,11 @@ RUN conda update -n base -c defaults conda && \
 RUN apt-get update && \
     apt-get install -y tmux
 
+RUN wget https://aka.ms/qait-testset && \
+    unzip qait-testset
+
 COPY qait_public .
 COPY scripts ./scripts
 COPY configs ./configs
 
-ENTRYPOINT [ "/bin/sh" ]
+ENTRYPOINT [ "" ]

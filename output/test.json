@@ -169,3 +169,609 @@
 {"time spent": "2 days, 14:10:31", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
 {"time spent": "2 days, 14:29:46", "sufficient info": 0.896, "qa": 0.896, "eval sufficient info": 0.0, "eval qa": 0.0}
 {"time spent": "2 days, 14:48:51", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 15:08:21", "sufficient info": 0.854, "qa": 0.854, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 15:28:22", "sufficient info": 0.896, "qa": 0.896, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 15:48:06", "sufficient info": 0.884, "qa": 0.884, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 16:07:23", "sufficient info": 0.882, "qa": 0.882, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 16:26:05", "sufficient info": 0.854, "qa": 0.854, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 16:45:46", "sufficient info": 0.89, "qa": 0.89, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 17:05:14", "sufficient info": 0.886, "qa": 0.886, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 17:24:29", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 17:43:47", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 18:03:35", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 18:23:01", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 18:42:50", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 19:02:12", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 19:22:01", "sufficient info": 0.866, "qa": 0.866, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 19:41:51", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 20:01:41", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 20:22:41", "sufficient info": 0.906, "qa": 0.906, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 20:42:26", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 21:02:50", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 21:23:05", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 21:43:51", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 22:05:19", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 22:25:48", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 22:46:10", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 23:06:11", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 23:26:26", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 23:47:15", "sufficient info": 0.88, "qa": 0.88, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 0:07:46", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 0:28:21", "sufficient info": 0.908, "qa": 0.908, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 0:47:52", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 1:08:34", "sufficient info": 0.892, "qa": 0.892, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 1:27:41", "sufficient info": 0.85, "qa": 0.85, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 1:47:42", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 2:06:16", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 2:26:38", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 2:46:41", "sufficient info": 0.828, "qa": 0.828, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 3:06:44", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 3:26:34", "sufficient info": 0.832, "qa": 0.832, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 3:46:49", "sufficient info": 0.906, "qa": 0.906, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 4:07:29", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 4:27:33", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 4:48:49", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 5:09:05", "sufficient info": 0.838, "qa": 0.838, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 5:30:08", "sufficient info": 0.9, "qa": 0.9, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 5:51:11", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 6:11:52", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 6:32:39", "sufficient info": 0.874, "qa": 0.874, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 6:53:36", "sufficient info": 0.956, "qa": 0.956, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 7:15:17", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 7:35:50", "sufficient info": 0.836, "qa": 0.836, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 7:55:33", "sufficient info": 0.77, "qa": 0.77, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 8:15:03", "sufficient info": 0.752, "qa": 0.752, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 8:34:43", "sufficient info": 0.794, "qa": 0.794, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 8:54:00", "sufficient info": 0.794, "qa": 0.794, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 9:12:57", "sufficient info": 0.734, "qa": 0.734, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 9:31:55", "sufficient info": 0.696, "qa": 0.696, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 9:52:38", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 10:14:01", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 10:36:41", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 10:57:46", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 11:19:15", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 11:40:55", "sufficient info": 0.906, "qa": 0.906, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 12:01:56", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 12:23:28", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 12:45:10", "sufficient info": 0.954, "qa": 0.954, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 13:06:43", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 13:27:59", "sufficient info": 0.904, "qa": 0.904, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 13:49:01", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 14:10:01", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 14:31:23", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 14:53:01", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 15:14:14", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 15:35:39", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 15:57:08", "sufficient info": 0.86, "qa": 0.86, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 16:18:49", "sufficient info": 0.958, "qa": 0.958, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 16:40:02", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 17:01:25", "sufficient info": 0.886, "qa": 0.886, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 17:23:02", "sufficient info": 0.894, "qa": 0.894, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 17:44:36", "sufficient info": 0.88, "qa": 0.88, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 18:06:08", "sufficient info": 0.892, "qa": 0.892, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 18:27:24", "sufficient info": 0.87, "qa": 0.87, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 18:48:50", "sufficient info": 0.854, "qa": 0.854, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 19:10:43", "sufficient info": 0.836, "qa": 0.836, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 19:32:40", "sufficient info": 0.848, "qa": 0.848, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 19:54:33", "sufficient info": 0.878, "qa": 0.878, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 20:16:52", "sufficient info": 0.898, "qa": 0.898, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 20:39:15", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 21:02:22", "sufficient info": 0.898, "qa": 0.898, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 21:25:28", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 21:47:32", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 22:09:53", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 22:32:57", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 22:55:34", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 23:18:19", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3 days, 23:41:01", "sufficient info": 0.946, "qa": 0.946, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 0:04:13", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 0:26:48", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 0:49:32", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 1:13:26", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 1:36:36", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 1:59:31", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 2:22:03", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 2:45:18", "sufficient info": 0.882, "qa": 0.882, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 3:07:35", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 3:31:18", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 3:53:44", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 4:16:08", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 4:38:34", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 5:01:29", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 5:24:09", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 5:46:20", "sufficient info": 0.906, "qa": 0.906, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 6:09:06", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 6:31:46", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 6:54:27", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 7:17:43", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 7:40:47", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 8:03:11", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 8:25:48", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 8:48:29", "sufficient info": 0.908, "qa": 0.908, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 9:10:58", "sufficient info": 0.876, "qa": 0.876, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 9:33:14", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 9:54:34", "sufficient info": 0.76, "qa": 0.76, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 10:16:58", "sufficient info": 0.896, "qa": 0.896, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 10:39:33", "sufficient info": 0.88, "qa": 0.88, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 11:02:13", "sufficient info": 0.904, "qa": 0.904, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 11:25:01", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 11:48:27", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 12:12:17", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 12:35:55", "sufficient info": 0.876, "qa": 0.876, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 12:59:24", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 13:22:20", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 13:45:52", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 14:09:09", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 14:32:17", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 14:57:54", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 15:21:48", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 15:45:35", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 16:09:01", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 16:32:29", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 16:55:29", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 17:18:55", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 17:42:20", "sufficient info": 0.946, "qa": 0.946, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 18:05:20", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 18:28:59", "sufficient info": 0.9, "qa": 0.9, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 18:52:31", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 19:16:04", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 19:40:05", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 20:04:35", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 20:29:01", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 20:53:27", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 21:17:12", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 21:41:47", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 22:05:56", "sufficient info": 0.894, "qa": 0.894, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 22:29:42", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 22:53:46", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 23:18:42", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4 days, 23:43:03", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 0:07:23", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 0:31:43", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 0:56:18", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 1:21:01", "sufficient info": 0.958, "qa": 0.958, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 1:45:43", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 2:10:32", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 2:35:06", "sufficient info": 0.896, "qa": 0.896, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 2:59:14", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 3:23:17", "sufficient info": 0.896, "qa": 0.896, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 3:47:28", "sufficient info": 0.842, "qa": 0.842, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 4:11:12", "sufficient info": 0.85, "qa": 0.85, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 4:35:40", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 4:59:57", "sufficient info": 0.946, "qa": 0.946, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 5:23:56", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 5:48:12", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 6:12:56", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 6:37:29", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 7:02:06", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 7:26:33", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 7:50:39", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 8:15:25", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 8:39:43", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 9:04:03", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 9:28:00", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 9:52:01", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 10:16:19", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 10:40:45", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 11:05:58", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 11:31:44", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 11:56:57", "sufficient info": 0.878, "qa": 0.878, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 12:21:45", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 12:46:12", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 13:10:58", "sufficient info": 0.908, "qa": 0.908, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 13:36:04", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 13:59:25", "sufficient info": 0.836, "qa": 0.836, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 14:24:38", "sufficient info": 0.894, "qa": 0.894, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 14:49:11", "sufficient info": 0.878, "qa": 0.878, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 15:14:23", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 15:40:22", "sufficient info": 0.9, "qa": 0.9, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 16:04:59", "sufficient info": 0.886, "qa": 0.886, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 16:28:52", "sufficient info": 0.834, "qa": 0.834, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 16:53:33", "sufficient info": 0.898, "qa": 0.898, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 17:18:29", "sufficient info": 0.892, "qa": 0.892, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 17:43:54", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 18:08:56", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 18:33:54", "sufficient info": 0.908, "qa": 0.908, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 18:58:42", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 19:24:04", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 19:49:18", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 20:14:43", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 20:39:50", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 21:05:28", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 21:30:57", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 21:55:58", "sufficient info": 0.882, "qa": 0.882, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 22:21:31", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 22:47:09", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 23:12:21", "sufficient info": 0.952, "qa": 0.952, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5 days, 23:37:24", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 0:03:22", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 0:27:37", "sufficient info": 0.818, "qa": 0.818, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 0:51:21", "sufficient info": 0.764, "qa": 0.764, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 1:16:09", "sufficient info": 0.82, "qa": 0.82, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 1:40:26", "sufficient info": 0.796, "qa": 0.796, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 2:05:38", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 2:30:36", "sufficient info": 0.848, "qa": 0.848, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 2:55:29", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 3:20:53", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 3:46:06", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 4:11:06", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 4:36:10", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 5:01:06", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 5:25:07", "sufficient info": 0.748, "qa": 0.748, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 5:49:53", "sufficient info": 0.762, "qa": 0.762, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 6:14:27", "sufficient info": 0.766, "qa": 0.766, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 6:38:27", "sufficient info": 0.744, "qa": 0.744, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 7:03:03", "sufficient info": 0.778, "qa": 0.778, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 7:28:40", "sufficient info": 0.798, "qa": 0.798, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 7:53:36", "sufficient info": 0.738, "qa": 0.738, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 8:19:05", "sufficient info": 0.95, "qa": 0.95, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 8:45:16", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 9:11:29", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 9:37:50", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 10:03:57", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 10:30:38", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 10:56:45", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 11:22:21", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 11:47:53", "sufficient info": 0.946, "qa": 0.946, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 12:13:17", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 12:39:08", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 13:05:21", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 13:31:34", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 13:57:53", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 14:24:16", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 14:50:59", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 15:17:09", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 15:43:11", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 16:09:15", "sufficient info": 0.952, "qa": 0.952, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 16:35:31", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 17:01:45", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 17:28:34", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 17:55:02", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 18:21:46", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 18:48:40", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 19:14:35", "sufficient info": 0.954, "qa": 0.954, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 19:40:44", "sufficient info": 0.952, "qa": 0.952, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 20:07:34", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 20:34:20", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 21:01:42", "sufficient info": 0.91, "qa": 0.91, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 21:28:36", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 21:55:11", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 22:22:58", "sufficient info": 0.894, "qa": 0.894, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 22:49:59", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 23:17:18", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6 days, 23:44:34", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 0:11:55", "sufficient info": 0.95, "qa": 0.95, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 0:39:22", "sufficient info": 0.95, "qa": 0.95, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 1:07:13", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 1:35:04", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 2:02:24", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 2:29:37", "sufficient info": 0.95, "qa": 0.95, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 2:56:49", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 3:24:08", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 3:51:31", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 4:18:38", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 4:46:05", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 5:13:54", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 5:41:37", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 6:09:10", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 6:36:51", "sufficient info": 0.94, "qa": 0.94, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 7:05:32", "sufficient info": 0.906, "qa": 0.906, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 7:32:49", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 7:59:51", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 8:26:52", "sufficient info": 0.952, "qa": 0.952, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 8:54:03", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 9:21:10", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 9:48:14", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 10:15:33", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 10:43:24", "sufficient info": 0.95, "qa": 0.95, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 11:10:41", "sufficient info": 0.954, "qa": 0.954, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 11:37:56", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 12:04:59", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 12:31:54", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 12:58:56", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 13:26:31", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 13:54:28", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 14:22:17", "sufficient info": 0.888, "qa": 0.888, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 14:50:05", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 15:17:38", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 15:44:35", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 16:11:39", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 16:38:57", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 17:06:38", "sufficient info": 0.946, "qa": 0.946, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 17:34:53", "sufficient info": 0.906, "qa": 0.906, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 18:03:07", "sufficient info": 0.942, "qa": 0.942, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 18:30:30", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 18:58:13", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 19:25:23", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 19:52:50", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 20:20:13", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 20:47:39", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 21:14:11", "sufficient info": 0.738, "qa": 0.738, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 21:41:38", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 22:08:52", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 22:36:07", "sufficient info": 0.946, "qa": 0.946, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 23:03:34", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 23:30:40", "sufficient info": 0.912, "qa": 0.912, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7 days, 23:58:02", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 0:25:34", "sufficient info": 0.894, "qa": 0.894, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 0:53:56", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 1:22:19", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 1:51:11", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 2:18:38", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 2:46:38", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 3:14:18", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 3:42:47", "sufficient info": 0.934, "qa": 0.934, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 4:11:11", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 4:39:09", "sufficient info": 0.95, "qa": 0.95, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 5:06:57", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 5:34:34", "sufficient info": 0.924, "qa": 0.924, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 6:02:25", "sufficient info": 0.948, "qa": 0.948, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 6:30:20", "sufficient info": 0.916, "qa": 0.916, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 6:57:19", "sufficient info": 0.86, "qa": 0.86, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 7:25:40", "sufficient info": 0.914, "qa": 0.914, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 7:53:52", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 8:22:04", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 8:50:26", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 9:18:27", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 9:46:25", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 10:14:51", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 10:43:05", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 11:11:32", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 11:40:22", "sufficient info": 0.936, "qa": 0.936, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 12:08:44", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 12:37:14", "sufficient info": 0.922, "qa": 0.922, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 13:05:28", "sufficient info": 0.918, "qa": 0.918, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 13:33:52", "sufficient info": 0.93, "qa": 0.93, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 14:02:40", "sufficient info": 0.92, "qa": 0.92, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 14:31:05", "sufficient info": 0.826, "qa": 0.826, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 14:59:27", "sufficient info": 0.932, "qa": 0.932, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 15:27:58", "sufficient info": 0.908, "qa": 0.908, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 15:57:15", "sufficient info": 0.944, "qa": 0.944, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 16:25:49", "sufficient info": 0.928, "qa": 0.928, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 16:54:51", "sufficient info": 0.938, "qa": 0.938, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8 days, 17:23:31", "sufficient info": 0.926, "qa": 0.926, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:11:09", "sufficient info": 0.236, "qa": 0.0, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:24:02", "sufficient info": 0.198, "qa": 0.198, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:37:03", "sufficient info": 0.232, "qa": 0.232, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:50:32", "sufficient info": 0.246, "qa": 0.246, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1:03:43", "sufficient info": 0.246, "qa": 0.246, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1:16:55", "sufficient info": 0.244, "qa": 0.244, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1:30:15", "sufficient info": 0.248, "qa": 0.246, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1:43:38", "sufficient info": 0.292, "qa": 0.292, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1:57:01", "sufficient info": 0.298, "qa": 0.298, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2:10:42", "sufficient info": 0.31, "qa": 0.31, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2:24:18", "sufficient info": 0.344, "qa": 0.342, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2:38:01", "sufficient info": 0.326, "qa": 0.326, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2:51:45", "sufficient info": 0.338, "qa": 0.336, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3:05:37", "sufficient info": 0.338, "qa": 0.338, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3:19:39", "sufficient info": 0.29, "qa": 0.29, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3:33:37", "sufficient info": 0.332, "qa": 0.332, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "3:47:39", "sufficient info": 0.366, "qa": 0.366, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4:01:41", "sufficient info": 0.356, "qa": 0.356, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4:15:52", "sufficient info": 0.39, "qa": 0.39, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4:30:18", "sufficient info": 0.366, "qa": 0.366, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4:44:25", "sufficient info": 0.412, "qa": 0.412, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "4:58:40", "sufficient info": 0.416, "qa": 0.416, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5:13:09", "sufficient info": 0.386, "qa": 0.386, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5:27:49", "sufficient info": 0.464, "qa": 0.464, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5:42:11", "sufficient info": 0.448, "qa": 0.448, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "5:56:47", "sufficient info": 0.402, "qa": 0.402, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6:11:25", "sufficient info": 0.476, "qa": 0.476, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6:25:54", "sufficient info": 0.466, "qa": 0.466, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6:40:27", "sufficient info": 0.442, "qa": 0.442, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "6:55:09", "sufficient info": 0.498, "qa": 0.498, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7:10:19", "sufficient info": 0.466, "qa": 0.466, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7:25:21", "sufficient info": 0.464, "qa": 0.464, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7:40:30", "sufficient info": 0.476, "qa": 0.476, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "7:55:46", "sufficient info": 0.462, "qa": 0.462, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8:10:49", "sufficient info": 0.444, "qa": 0.444, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8:25:56", "sufficient info": 0.492, "qa": 0.492, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8:41:35", "sufficient info": 0.506, "qa": 0.506, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "8:57:16", "sufficient info": 0.494, "qa": 0.494, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "9:12:40", "sufficient info": 0.446, "qa": 0.446, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "9:28:06", "sufficient info": 0.536, "qa": 0.536, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "9:43:56", "sufficient info": 0.516, "qa": 0.516, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "9:59:47", "sufficient info": 0.496, "qa": 0.496, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "10:15:34", "sufficient info": 0.492, "qa": 0.492, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "10:31:31", "sufficient info": 0.54, "qa": 0.54, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "10:46:52", "sufficient info": 0.534, "qa": 0.534, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "11:02:50", "sufficient info": 0.494, "qa": 0.494, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "11:19:20", "sufficient info": 0.514, "qa": 0.514, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "11:35:32", "sufficient info": 0.586, "qa": 0.586, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "11:52:02", "sufficient info": 0.548, "qa": 0.548, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "12:08:42", "sufficient info": 0.534, "qa": 0.534, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "12:25:34", "sufficient info": 0.528, "qa": 0.528, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "12:41:59", "sufficient info": 0.564, "qa": 0.564, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "12:58:34", "sufficient info": 0.534, "qa": 0.534, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "13:14:47", "sufficient info": 0.576, "qa": 0.576, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "13:31:16", "sufficient info": 0.586, "qa": 0.586, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "13:48:01", "sufficient info": 0.598, "qa": 0.598, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "14:04:28", "sufficient info": 0.59, "qa": 0.59, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "14:21:35", "sufficient info": 0.556, "qa": 0.556, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "14:39:12", "sufficient info": 0.57, "qa": 0.57, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "14:56:25", "sufficient info": 0.59, "qa": 0.59, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "15:13:50", "sufficient info": 0.636, "qa": 0.634, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "15:31:01", "sufficient info": 0.612, "qa": 0.612, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "15:49:29", "sufficient info": 0.548, "qa": 0.548, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "16:07:30", "sufficient info": 0.614, "qa": 0.614, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "16:25:03", "sufficient info": 0.644, "qa": 0.644, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "16:42:52", "sufficient info": 0.628, "qa": 0.628, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "17:01:26", "sufficient info": 0.612, "qa": 0.612, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "17:20:13", "sufficient info": 0.666, "qa": 0.666, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "17:38:54", "sufficient info": 0.644, "qa": 0.644, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "17:57:41", "sufficient info": 0.654, "qa": 0.654, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "18:16:32", "sufficient info": 0.638, "qa": 0.638, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "18:34:53", "sufficient info": 0.624, "qa": 0.624, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "18:53:48", "sufficient info": 0.61, "qa": 0.61, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "19:12:34", "sufficient info": 0.626, "qa": 0.626, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "19:32:08", "sufficient info": 0.65, "qa": 0.65, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "19:50:54", "sufficient info": 0.658, "qa": 0.658, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "20:09:40", "sufficient info": 0.654, "qa": 0.654, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "20:29:19", "sufficient info": 0.688, "qa": 0.688, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "20:48:54", "sufficient info": 0.632, "qa": 0.632, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "21:09:07", "sufficient info": 0.618, "qa": 0.618, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "21:28:53", "sufficient info": 0.658, "qa": 0.658, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "21:47:28", "sufficient info": 0.686, "qa": 0.686, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "22:06:28", "sufficient info": 0.7, "qa": 0.7, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "22:26:02", "sufficient info": 0.67, "qa": 0.67, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "22:43:42", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "23:02:07", "sufficient info": 0.652, "qa": 0.652, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "23:19:55", "sufficient info": 0.642, "qa": 0.642, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "23:39:58", "sufficient info": 0.696, "qa": 0.696, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "23:59:34", "sufficient info": 0.644, "qa": 0.644, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 0:15:56", "sufficient info": 0.662, "qa": 0.662, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 0:32:05", "sufficient info": 0.698, "qa": 0.698, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 0:49:03", "sufficient info": 0.708, "qa": 0.708, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 1:05:57", "sufficient info": 0.674, "qa": 0.674, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 1:22:30", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 1:41:44", "sufficient info": 0.666, "qa": 0.666, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 1:58:39", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 2:16:17", "sufficient info": 0.708, "qa": 0.708, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 2:31:12", "sufficient info": 0.706, "qa": 0.706, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 2:47:31", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 3:04:20", "sufficient info": 0.63, "qa": 0.63, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 3:20:36", "sufficient info": 0.67, "qa": 0.67, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 3:37:12", "sufficient info": 0.74, "qa": 0.74, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 3:55:57", "sufficient info": 0.696, "qa": 0.696, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 4:16:25", "sufficient info": 0.68, "qa": 0.68, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 4:36:59", "sufficient info": 0.73, "qa": 0.73, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 5:00:37", "sufficient info": 0.684, "qa": 0.684, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 5:18:16", "sufficient info": 0.702, "qa": 0.702, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 5:34:44", "sufficient info": 0.714, "qa": 0.714, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 5:52:15", "sufficient info": 0.716, "qa": 0.716, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 6:10:10", "sufficient info": 0.73, "qa": 0.73, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 6:28:51", "sufficient info": 0.722, "qa": 0.722, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 6:49:01", "sufficient info": 0.688, "qa": 0.688, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 7:06:45", "sufficient info": 0.702, "qa": 0.702, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 7:24:58", "sufficient info": 0.742, "qa": 0.742, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 7:47:10", "sufficient info": 0.72, "qa": 0.72, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 8:09:28", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 8:27:37", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 8:48:56", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 9:11:29", "sufficient info": 0.702, "qa": 0.702, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 9:35:40", "sufficient info": 0.732, "qa": 0.732, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 9:57:22", "sufficient info": 0.662, "qa": 0.662, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 10:16:00", "sufficient info": 0.716, "qa": 0.716, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 10:33:28", "sufficient info": 0.706, "qa": 0.706, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 10:54:13", "sufficient info": 0.708, "qa": 0.708, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 11:16:49", "sufficient info": 0.698, "qa": 0.698, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 11:39:23", "sufficient info": 0.712, "qa": 0.712, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 11:59:02", "sufficient info": 0.742, "qa": 0.742, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 12:23:45", "sufficient info": 0.736, "qa": 0.736, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 12:50:19", "sufficient info": 0.66, "qa": 0.66, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 13:11:03", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 13:35:23", "sufficient info": 0.72, "qa": 0.72, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 14:00:26", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 14:20:01", "sufficient info": 0.732, "qa": 0.732, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 14:42:17", "sufficient info": 0.722, "qa": 0.722, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 15:03:04", "sufficient info": 0.718, "qa": 0.718, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 15:26:14", "sufficient info": 0.724, "qa": 0.724, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 15:47:02", "sufficient info": 0.746, "qa": 0.746, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 16:09:40", "sufficient info": 0.744, "qa": 0.744, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 16:26:52", "sufficient info": 0.696, "qa": 0.696, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 16:44:53", "sufficient info": 0.728, "qa": 0.728, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 17:08:22", "sufficient info": 0.69, "qa": 0.69, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 17:35:39", "sufficient info": 0.728, "qa": 0.728, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 18:01:02", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 18:28:20", "sufficient info": 0.702, "qa": 0.702, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 18:48:02", "sufficient info": 0.698, "qa": 0.698, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 19:14:29", "sufficient info": 0.736, "qa": 0.736, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 19:42:38", "sufficient info": 0.744, "qa": 0.744, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 20:06:00", "sufficient info": 0.686, "qa": 0.686, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 20:29:48", "sufficient info": 0.678, "qa": 0.678, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 20:53:15", "sufficient info": 0.734, "qa": 0.734, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 21:18:44", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 21:37:04", "sufficient info": 0.668, "qa": 0.668, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 21:57:51", "sufficient info": 0.672, "qa": 0.672, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 22:18:19", "sufficient info": 0.684, "qa": 0.684, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 22:38:54", "sufficient info": 0.668, "qa": 0.668, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 22:59:00", "sufficient info": 0.696, "qa": 0.696, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 23:17:32", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 23:37:48", "sufficient info": 0.69, "qa": 0.69, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "1 day, 23:58:53", "sufficient info": 0.774, "qa": 0.774, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 0:18:48", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 0:38:46", "sufficient info": 0.764, "qa": 0.764, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 0:56:58", "sufficient info": 0.742, "qa": 0.742, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 1:15:15", "sufficient info": 0.712, "qa": 0.712, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 1:33:37", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 1:52:59", "sufficient info": 0.744, "qa": 0.744, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 2:12:26", "sufficient info": 0.734, "qa": 0.734, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 2:30:26", "sufficient info": 0.684, "qa": 0.684, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 2:48:33", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 3:08:00", "sufficient info": 0.696, "qa": 0.696, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 3:28:47", "sufficient info": 0.726, "qa": 0.726, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 3:47:55", "sufficient info": 0.678, "qa": 0.678, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 4:06:46", "sufficient info": 0.716, "qa": 0.716, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 4:26:04", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 4:46:39", "sufficient info": 0.672, "qa": 0.672, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 5:04:53", "sufficient info": 0.692, "qa": 0.692, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 5:23:40", "sufficient info": 0.67, "qa": 0.67, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 5:43:08", "sufficient info": 0.722, "qa": 0.722, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 6:04:15", "sufficient info": 0.678, "qa": 0.678, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 6:23:03", "sufficient info": 0.68, "qa": 0.68, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 6:45:13", "sufficient info": 0.714, "qa": 0.714, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 7:03:31", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 7:22:47", "sufficient info": 0.69, "qa": 0.69, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 7:42:49", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 8:02:30", "sufficient info": 0.7, "qa": 0.7, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 8:22:00", "sufficient info": 0.68, "qa": 0.68, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 8:43:51", "sufficient info": 0.686, "qa": 0.686, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 9:02:54", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 9:26:17", "sufficient info": 0.694, "qa": 0.694, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 9:46:42", "sufficient info": 0.742, "qa": 0.742, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 10:08:29", "sufficient info": 0.722, "qa": 0.722, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 10:29:48", "sufficient info": 0.708, "qa": 0.708, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 10:53:52", "sufficient info": 0.73, "qa": 0.73, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 11:18:17", "sufficient info": 0.712, "qa": 0.712, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 11:44:11", "sufficient info": 0.672, "qa": 0.672, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 12:13:29", "sufficient info": 0.706, "qa": 0.706, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 12:38:30", "sufficient info": 0.68, "qa": 0.68, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 13:03:26", "sufficient info": 0.724, "qa": 0.724, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 13:29:19", "sufficient info": 0.71, "qa": 0.71, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 13:56:44", "sufficient info": 0.704, "qa": 0.704, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "2 days, 14:26:27", "sufficient info": 0.674, "qa": 0.674, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:11:29", "sufficient info": 0.236, "qa": 0.0, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:24:38", "sufficient info": 0.208, "qa": 0.208, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:11:08", "sufficient info": 0.236, "qa": 0.0, "eval sufficient info": 0.0, "eval qa": 0.0}
+{"time spent": "0:09:51", "sufficient info": 0.208, "qa": 0.0, "eval sufficient info": 0.154, "eval qa": 0.0}
+{"time spent": "0:42:19", "sufficient info": 0.208, "qa": 0.208, "eval sufficient info": 0.164, "eval qa": 0.148}
+{"time spent": "1:20:21", "sufficient info": 0.194, "qa": 0.194, "eval sufficient info": 0.202, "eval qa": 0.152}
+{"time spent": "1:56:21", "sufficient info": 0.24, "qa": 0.24, "eval sufficient info": 0.156, "eval qa": 0.148}
+{"time spent": "2:15:30", "sufficient info": 0.226, "qa": 0.226, "eval sufficient info": 0.154, "eval qa": 0.15}
+{"time spent": "2:40:31", "sufficient info": 0.254, "qa": 0.254, "eval sufficient info": 0.16, "eval qa": 0.156}
+{"time spent": "3:08:29", "sufficient info": 0.254, "qa": 0.254, "eval sufficient info": 0.158, "eval qa": 0.15}
+{"time spent": "3:36:40", "sufficient info": 0.304, "qa": 0.304, "eval sufficient info": 0.174, "eval qa": 0.168}
+{"time spent": "4:07:57", "sufficient info": 0.258, "qa": 0.258, "eval sufficient info": 0.182, "eval qa": 0.182}
+{"time spent": "4:40:52", "sufficient info": 0.272, "qa": 0.272, "eval sufficient info": 0.182, "eval qa": 0.176}
+{"time spent": "5:14:32", "sufficient info": 0.31, "qa": 0.31, "eval sufficient info": 0.174, "eval qa": 0.172}
+{"time spent": "5:46:32", "sufficient info": 0.256, "qa": 0.256, "eval sufficient info": 0.18, "eval qa": 0.168}
+{"time spent": "6:20:59", "sufficient info": 0.308, "qa": 0.308, "eval sufficient info": 0.162, "eval qa": 0.128}
+{"time spent": "6:51:29", "sufficient info": 0.312, "qa": 0.312, "eval sufficient info": 0.168, "eval qa": 0.142}
+{"time spent": "7:26:30", "sufficient info": 0.288, "qa": 0.288, "eval sufficient info": 0.15, "eval qa": 0.144}
+{"time spent": "7:56:12", "sufficient info": 0.332, "qa": 0.332, "eval sufficient info": 0.164, "eval qa": 0.154}
+{"time spent": "8:27:51", "sufficient info": 0.324, "qa": 0.324, "eval sufficient info": 0.154, "eval qa": 0.146}
+{"time spent": "8:59:22", "sufficient info": 0.368, "qa": 0.368, "eval sufficient info": 0.148, "eval qa": 0.138}
+{"time spent": "9:31:02", "sufficient info": 0.324, "qa": 0.324, "eval sufficient info": 0.158, "eval qa": 0.144}
+{"time spent": "10:05:47", "sufficient info": 0.348, "qa": 0.348, "eval sufficient info": 0.156, "eval qa": 0.13}
+{"time spent": "10:39:06", "sufficient info": 0.37, "qa": 0.37, "eval sufficient info": 0.162, "eval qa": 0.154}
+{"time spent": "11:13:02", "sufficient info": 0.37, "qa": 0.37, "eval sufficient info": 0.156, "eval qa": 0.146}
+{"time spent": "11:47:07", "sufficient info": 0.37, "qa": 0.37, "eval sufficient info": 0.166, "eval qa": 0.146}
+{"time spent": "12:21:23", "sufficient info": 0.41, "qa": 0.41, "eval sufficient info": 0.168, "eval qa": 0.144}
+{"time spent": "12:53:37", "sufficient info": 0.376, "qa": 0.376, "eval sufficient info": 0.154, "eval qa": 0.148}
+{"time spent": "13:25:19", "sufficient info": 0.37, "qa": 0.37, "eval sufficient info": 0.162, "eval qa": 0.148}
+{"time spent": "13:57:57", "sufficient info": 0.384, "qa": 0.384, "eval sufficient info": 0.172, "eval qa": 0.14}
+{"time spent": "14:31:47", "sufficient info": 0.384, "qa": 0.384, "eval sufficient info": 0.164, "eval qa": 0.15}
+{"time spent": "15:06:03", "sufficient info": 0.392, "qa": 0.392, "eval sufficient info": 0.176, "eval qa": 0.158}
+{"time spent": "15:40:52", "sufficient info": 0.414, "qa": 0.414, "eval sufficient info": 0.164, "eval qa": 0.15}
+{"time spent": "16:15:30", "sufficient info": 0.428, "qa": 0.428, "eval sufficient info": 0.184, "eval qa": 0.16}
+{"time spent": "16:54:22", "sufficient info": 0.414, "qa": 0.414, "eval sufficient info": 0.17, "eval qa": 0.152}
+{"time spent": "17:34:52", "sufficient info": 0.402, "qa": 0.402, "eval sufficient info": 0.172, "eval qa": 0.154}
+{"time spent": "18:08:45", "sufficient info": 0.472, "qa": 0.472, "eval sufficient info": 0.174, "eval qa": 0.142}
+{"time spent": "18:47:38", "sufficient info": 0.434, "qa": 0.434, "eval sufficient info": 0.166, "eval qa": 0.132}
+{"time spent": "19:22:00", "sufficient info": 0.444, "qa": 0.444, "eval sufficient info": 0.174, "eval qa": 0.146}
+{"time spent": "19:58:13", "sufficient info": 0.464, "qa": 0.464, "eval sufficient info": 0.174, "eval qa": 0.152}
+{"time spent": "20:37:45", "sufficient info": 0.444, "qa": 0.444, "eval sufficient info": 0.172, "eval qa": 0.15}
+{"time spent": "21:15:39", "sufficient info": 0.418, "qa": 0.418, "eval sufficient info": 0.176, "eval qa": 0.142}
+{"time spent": "21:52:48", "sufficient info": 0.462, "qa": 0.462, "eval sufficient info": 0.172, "eval qa": 0.158}
+{"time spent": "22:30:32", "sufficient info": 0.49, "qa": 0.49, "eval sufficient info": 0.16, "eval qa": 0.134}
+{"time spent": "23:01:28", "sufficient info": 0.464, "qa": 0.464, "eval sufficient info": 0.174, "eval qa": 0.144}
